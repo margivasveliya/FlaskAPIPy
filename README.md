@@ -15,5 +15,6 @@ you can just type it out
 --> What This API Can Do
 - add: people to a little “digital notebook” 
 - see: everyone who’s in there 
-- update: someone’s name ✏️
-- delete: someone when it’s time to say goodbye 👋
+- update: someone’s name 
+- delete: someone when it’s time to say goodbye 
+
